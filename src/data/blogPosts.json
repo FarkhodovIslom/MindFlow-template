@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": "1",
+    "title": "5 признаков того, что вы работаете неэффективно",
+    "slug": "5-signs-ineffective-work",
+    "excerpt": "Список красных флагов, которые указывают на то, что пора менять подход к работе.",
+    "category": "Продуктивность",
+    "readTime": "7 мин",
+    "date": "15 марта 2024",
+    "image": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=800&h=500&fit=crop",
+    "author": "Мария Соколова"
+  },
+  {
+    "id": "2",
+    "title": "Почему утренние ритуалы не работают: что делать вместо этого",
+    "slug": "morning-rituals-myth",
+    "excerpt": "Развенчиваем миф об утренних ритуалах и предлагаем научно обоснованный подход.",
+    "category": "Энергия",
+    "readTime": "10 мин",
+    "date": "10 марта 2024",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=500&fit=crop",
+    "author": "Андрей Козлов"
+  },
+  {
+    "id": "3",
+    "title": "Как делегировать и не потерять контроль",
+    "slug": "how-to-delegate-without-losing-control",
+    "excerpt": "Пошаговое руководство по делегированию для менеджеров любого уровня.",
+    "category": "Управление",
+    "readTime": "12 мин",
+    "date": "5 марта 2024",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=500&fit=crop",
+    "author": "Дмитрий Волков"
+  },
+  {
+    "id": "4",
+    "title": "Техника Pomodoro 2.0: как я удвоил продуктивность",
+    "slug": "pomodoro-2-0-technique",
+    "excerpt": "Личная история о том, как классическая техника помогла мне стать в два раза продуктивнее.",
+    "category": "Фокус",
+    "readTime": "8 мин",
+    "date": "1 марта 2024",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=500&fit=crop",
+    "author": "Мария Соколова"
+  },
+  {
+    "id": "5",
+    "title": "Сон и продуктивность: неожиданная связь",
+    "slug": "sleep-and-productivity",
+    "excerpt": "Исследования показывают, что качественный сон важнее любых техник продуктивности.",
+    "category": "Энергия",
+    "readTime": "9 мин",
+    "date": "25 февраля 2024",
+    "image": "https://images.unsplash.com/photo-1544367567-0f85fc4e4e38?w=800&h=500&fit=crop",
+    "author": "Андрей Козлов"
+  },
+  {
+    "id": "6",
+    "title": "Как ставить цели, которые действительно достигаются",
+    "slug": "how-to-set-achievable-goals",
+    "excerpt": "Разбираем методологию SMART и учимся ставить цели, которые мотивируют.",
+    "category": "Целеполагание",
+    "readTime": "11 мин",
+    "date": "20 февраля 2024",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=500&fit=crop",
+    "author": "Мария Соколова"
+  }
+]

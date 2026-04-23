@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: 'DM Serif Display', serif;
+  }
+}
+
+@layer components {
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent;
+  }
+  
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-primary text-white font-semibold rounded-lg 
+           transition-all duration-300 hover:bg-primary-dark hover:shadow-lg hover:shadow-primary/25 
+           active:scale-95 focus:outline-none focus:ring-2 focus:ring-primary/50;
+  }
+  
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 border-2 border-foreground text-foreground font-semibold rounded-lg 
+           transition-all duration-300 hover:bg-foreground hover:text-white 
+           active:scale-95 focus:outline-none focus:ring-2 focus:ring-foreground/50;
+  }
+  
+  .btn-ghost {
+    @apply inline-flex items-center justify-center px-4 py-2 text-foreground font-medium rounded-lg 
+           transition-all duration-300 hover:bg-foreground/5 
+           active:scale-95 focus:outline-none focus:ring-2 focus:ring-foreground/20;
+  }
+  
+  .card {
+    @apply bg-white rounded-2xl p-6 transition-all duration-300 
+           hover:shadow-xl hover:shadow-foreground/5 hover:-translate-y-1;
+  }
+  
+  .section-padding {
+    @apply py-20 md:py-24 lg:py-32;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-foreground/20 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-foreground/40;
+}

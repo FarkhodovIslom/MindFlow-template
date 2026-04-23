@@ -1,0 +1,238 @@
+
+[
+  {
+    "id": "1",
+    "title": "Фундамент продуктивности",
+    "slug": "foundation-of-productivity",
+    "shortDescription": "Основы управления временем и энергией для максимальной эффективности",
+    "description": "Комплексная программа для тех, кто хочет перестать торопиться и начать успевать.",
+    "category": "productivity",
+    "level": "beginner",
+    "format": "video",
+    "price": 9900,
+    "oldPrice": 14900,
+    "duration": "12 часов",
+    "lessons": 24,
+    "students": 1520,
+    "rating": 4.8,
+    "reviews": 234,
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
+    "featured": true,
+    "instructor": {
+      "name": "Мария Соколова",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
+      "role": "Эксперт по продуктивности",
+      "bio": "Более 10 лет помогаю людям достигать целей без выгорания."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Основы продуктивности",
+        "lessons": [
+          { "title": "Что такое настоящая продуктивность", "duration": "18 мин", "preview": true },
+          { "title": "Как перестать работать на износ", "duration": "24 мин", "preview": true },
+          { "title": "Цикл энергии и восстановления", "duration": "32 мин", "preview": false },
+          { "title": "Практика: Аудит вашего времени", "duration": "45 мин", "preview": false }
+        ]
+      },
+      {
+        "title": "Модуль 2: Планирование и приоритеты",
+        "lessons": [
+          { "title": "Методология SMART+", "duration": "28 мин", "preview": false },
+          { "title": "Матрица Эйзенхауэра на практике", "duration": "35 мин", "preview": false },
+          { "title": "Ежедневное планирование", "duration": "40 мин", "preview": false }
+        ]
+      },
+      {
+        "title": "Модуль 3: Фокус и концентрация",
+        "lessons": [
+          { "title": "Как бороться с прокрастинацией", "duration": "30 мин", "preview": false },
+          { "title": "Техника Pomodoro 2.0", "duration": "25 мин", "preview": false },
+          { "title": "Глубокая работа: правила и техники", "duration": "42 мин", "preview": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Глубокая работа в эпоху перемен",
+    "slug": "deep-work-in-change",
+    "shortDescription": "Как сохранять концентрацию и добиваться результатов в мире отвлечений",
+    "description": "Курс для профессионалов, которые хотят развить способность к глубокой концентрации.",
+    "category": "focus",
+    "level": "intermediate",
+    "format": "video",
+    "price": 14900,
+    "oldPrice": 19900,
+    "duration": "18 часов",
+    "lessons": 32,
+    "students": 890,
+    "rating": 4.9,
+    "reviews": 156,
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=600&fit=crop",
+    "featured": true,
+    "instructor": {
+      "name": "Дмитрий Волков",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
+      "role": "Специалист по продуктивности",
+      "bio": "Предприниматель и консультант."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Понимание глубокой работы",
+        "lessons": [
+          { "title": "Что такое глубокая работа и почему она редка", "duration": "22 мин", "preview": true },
+          { "title": "Архитектура рабочего дня", "duration": "35 мин", "preview": true },
+          { "title": "Ритуалы входа и выхода", "duration": "28 мин", "preview": false }
+        ]
+      },
+      {
+        "title": "Модуль 2: Устранение отвлечений",
+        "lessons": [
+          { "title": "Цифровой детокс без фанатизма", "duration": "40 мин", "preview": false },
+          { "title": "Управление уведомлениями", "duration": "25 мин", "preview": false },
+          { "title": "Создание рабочего пространства", "duration": "32 мин", "preview": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Управление проектами для творческих людей",
+    "slug": "creative-project-management",
+    "shortDescription": "Системный подход к проектам для дизайнеров и разработчиков",
+    "description": "Практический курс по управлению проектами для творческих профессий.",
+    "category": "project-management",
+    "level": "intermediate",
+    "format": "video",
+    "price": 11900,
+    "oldPrice": null,
+    "duration": "14 часов",
+    "lessons": 28,
+    "students": 654,
+    "rating": 4.7,
+    "reviews": 98,
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+    "featured": false,
+    "instructor": {
+      "name": "Елена Новикова",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",
+      "role": "Проджект-менеджер",
+      "bio": "10+ лет управления креативными проектами."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Основы управления проектами",
+        "lessons": [
+          { "title": "От хаоса к системе", "duration": "20 мин", "preview": true },
+          { "title": "Жизненный цикл проекта", "duration": "30 мин", "preview": true },
+          { "title": "Роли и ответственность", "duration": "25 мин", "preview": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Энергетический менеджмент",
+    "slug": "energy-management",
+    "shortDescription": "Как управлять своим физическим и эмоциональным состоянием",
+    "description": "Курс о том, как научиться управлять энергией, а не временем.",
+    "category": "energy",
+    "level": "beginner",
+    "format": "video",
+    "price": 7900,
+    "oldPrice": 9900,
+    "duration": "8 часов",
+    "lessons": 16,
+    "students": 2100,
+    "rating": 4.9,
+    "reviews": 412,
+    "image": "https://images.unsplash.com/photo-1544367567-0f85fc4e4e38?w=800&h=600&fit=crop",
+    "featured": true,
+    "instructor": {
+      "name": "Андрей Козлов",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
+      "role": "Коууч и биохакер",
+      "bio": "Исследую связь между физическим состоянием и продуктивностью."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Понимание энергии",
+        "lessons": [
+          { "title": "Четыре типа энергии человека", "duration": "25 мин", "preview": true },
+          { "title": "Биоритмы и оптимальное время", "duration": "35 мин", "preview": true },
+          { "title": "Сон как инвестиция", "duration": "40 мин", "preview": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Целеполагание и мотивация",
+    "slug": "goal-setting-motivation",
+    "shortDescription": "Научитесь ставить цели, которые действительно мотивируют",
+    "description": "Практический курс по целеполаганию.",
+    "category": "productivity",
+    "level": "beginner",
+    "format": "video",
+    "price": 5900,
+    "oldPrice": null,
+    "duration": "6 часов",
+    "lessons": 12,
+    "students": 3200,
+    "rating": 4.6,
+    "reviews": 567,
+    "image": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=800&h=600&fit=crop",
+    "featured": false,
+    "instructor": {
+      "name": "Мария Соколова",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
+      "role": "Эксперт по продуктивности",
+      "bio": "Более 10 лет помогаю людям достигать целей."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Философия целей",
+        "lessons": [
+          { "title": "Почему цели не работают", "duration": "22 мин", "preview": true },
+          { "title": "Внутренняя и внешняя мотивация", "duration": "30 мин", "preview": true },
+          { "title": "Связь целей и ценностей", "duration": "28 мин", "preview": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Делегирование для руководителей",
+    "slug": "delegation-for-managers",
+    "shortDescription": "Освободите время для стратегических задач",
+    "description": "Курс для менеджеров, которые хотят масштабировать результаты.",
+    "category": "management",
+    "level": "advanced",
+    "format": "video",
+    "price": 16900,
+    "oldPrice": 21900,
+    "duration": "10 часов",
+    "lessons": 20,
+    "students": 445,
+    "rating": 4.8,
+    "reviews": 78,
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+    "featured": false,
+    "instructor": {
+      "name": "Дмитрий Волков",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
+      "role": "Специалист по продуктивности",
+      "bio": "Помог более 500 компаниям."
+    },
+    "curriculum": [
+      {
+        "title": "Модуль 1: Зачем делегировать",
+        "lessons": [
+          { "title": "Стоимость вашего времени", "duration": "25 мин", "preview": true },
+          { "title": "Что можно и нельзя делегировать", "duration": "35 мин", "preview": true },
+          { "title": "Психология делегирования", "duration": "40 мин", "preview": false }
+        ]
+      }
+    ]
+  }
+]
